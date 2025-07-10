@@ -17,6 +17,9 @@ public class Main
         // Name the child to Lite
         System.out.println(child.nameChild("Lite"));
         
+        // Ask the child the name
+        System.out.println(child.sayYourName());
+        
         
     }
     
