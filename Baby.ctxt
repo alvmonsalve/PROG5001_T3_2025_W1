@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Baby
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Baby\ here.\r\n\r\n\ @author\ AM\r\n\ @version\ 0\r\n
+comment1.params=
+comment1.target=Baby()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Baby\r\n
+comment2.params=newName
+comment2.target=java.lang.Boolean\ nameChild(java.lang.String)
+comment2.text=\r\n\ nameChild\ Method\r\n\r\n\ @param\ \ newName\ \ the\ name\ to\ be\ asigned\ to\ the\ baby\r\n\ @return\ true\ if\ successful\ \ \ \ \r\n
+numComments=3
